@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "AI Blocker",
+  "description": "It blocks AI chatbots sites, saving space to use your brain instead of total dependence on the program.",
+  "version": "1.0.0",
+  "icons": {
+    "48": "icons/Icon-48.png",
+    "96": "icons/Icon-96.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "56.0a1"
+    }
+  },
+  "background": {
+    "scripts": [
+      "background/proxy-handler.js"
+    ]
+  },
+  "options_ui": {
+    "page": "options/options.html",
+    "browser_style": true
+  },
+  "permissions": [
+    "proxy",
+    "storage",
+    "<all_urls>"
+  ]
+}
