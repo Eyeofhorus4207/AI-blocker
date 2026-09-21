@@ -12,6 +12,4 @@ The existing sites are the most popular so you may find that some sites need to 
 
 This project is the nucleus for building an extension that helps to block artificial intelligence sites and their links and the advantages of existing sites, as artificial intelligence such as advertising needs to be blocked (inspired by Ublock) 
 
-Therefore, the contribution is open to help build this program
-
-Github page:
+Therefore, the contribution is open to help build this program.
