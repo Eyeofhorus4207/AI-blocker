@@ -14,6 +14,6 @@ The existing sites are the most popular so you may find that some sites need to 
 
 ## contribution
 
-This project is the nucleus for building an extension that helps to block artificial intelligence sites and their links and the advantages of existing sites, as artificial intelligence such as adv[...]
+This project is the nucleus for building an extension that helps to block artificial intelligence sites and their links and the advantages of existing sites, as artificial intelligence such as ads
 
 Therefore, the contribution is open to help build this program.
